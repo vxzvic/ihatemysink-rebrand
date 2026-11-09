@@ -8,6 +8,8 @@ Static prototype of the ihatemysink.com homepage in the new brand identity
 - `assets/main.js`: before/after sliders, review carousel, mobile menu, form validation
 - `assets/drain-mark.svg`: the drain mark as a standalone SVG
 
+**Rebranding the real Webflow site? Follow [WEBFLOW-GUIDE.md](WEBFLOW-GUIDE.md).** Logos, icons and the code snippet are in `brand-kit/`.
+
 Open `index.html` in a browser, or enable GitHub Pages (Settings → Pages → Deploy from branch → `main` / root).
 
 Notes: the typeface is Inter Tight, standing in for the licensed guideline face. The forms are not yet connected to a backend.
